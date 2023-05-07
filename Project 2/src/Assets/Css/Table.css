@@ -1,0 +1,29 @@
+.searchInputDiv{
+    text-align: center;
+    padding: 35px 0;
+}
+.inputBar{
+    width: 37vw;
+    padding: 7px 10px;
+}
+.handleSelectedTableWidth{
+    width: 60% !important;
+    margin: auto !important;
+}
+.searchResultsParent{
+display: grid;
+grid-template-columns: 20% 80%;
+}
+.handleSearchTableWidth{
+    width: 75% !important;
+    margin: auto !important;
+}
+.typesDiv{
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    padding: 10px 20px;
+    margin-left: 32px;
+    height: 168px;
+    background: gainsboro;
+}

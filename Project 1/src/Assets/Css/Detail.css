@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.detailViewsParent{
+   width: 50%;
+   margin: auto;
+   padding-top: 60px;
+}
+.viewDetailCardColor{
+    color: #c5c5c5;
+    font-size: 13px;
+    display: flex;
+    padding: 5px 0;
+}
+.detailEyeImg{
+    width: 14px;
+    margin-right: 2px;
+    margin-bottom: 2px
+}
+.detailPagePara{
+    color: #8b8c95;
+    font-size: 13px;
+}
+.detailImage{
+    text-align: center;
+    padding-top: 20px;
+}
+.handleSubPadding{
+    padding: 30px 0;
+
+}
